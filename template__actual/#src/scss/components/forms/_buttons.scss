@@ -1,0 +1,11 @@
+.btn {
+   display: block;
+   padding: 0px 0px;
+   // body
+
+   transition: all 0.3s ease 0s;
+   @media (min-width: 992px) {
+      &:hover {
+      }
+   }
+}
